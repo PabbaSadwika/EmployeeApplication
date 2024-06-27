@@ -14,7 +14,7 @@ public class EmployeeAppController {
     @GetMapping
     public String EmployeeApp()
     {
-        System.out.println("Employee details");
+        System.out.println("Employee detaigils");
         System.out.println("Employee details");
         System.out.println("Employee details");
        return "employee details";
